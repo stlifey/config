@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Leafpad GB
+Exec=leafpad --codeset=gb18030
+MimeType=text/plain
+Icon=exec
+NoDisplay=true

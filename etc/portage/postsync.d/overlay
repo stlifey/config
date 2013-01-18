@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /usr/local/overlay/lisp
+git pull

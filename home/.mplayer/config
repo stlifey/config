@@ -1,0 +1,7 @@
+[default]
+vo=xv
+ao=alsa
+ass=yes
+subcp=enca:zh:ucs-2
+sub-fuzziness=1
+idx=yes
